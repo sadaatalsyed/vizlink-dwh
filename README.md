@@ -116,7 +116,7 @@ vizlink-dwh/
 |---|---|
 | ![Financing](/06_reporting/ScreenShots/financing.png) | ![VLC_support_Tickets](/06_reporting/ScreenShots/VLC_tickets.png) |
 ---
-→ Full Dashboard Details:![Dashboard_Detail](06_reporting/Readme.md)
+→ Full Dashboard Details: [Dashboard_Detail](06_reporting/Readme.md)
 ## Key Design Decisions
 
 **Why Galaxy Schema over Star?**
