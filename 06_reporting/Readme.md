@@ -23,8 +23,9 @@ Screenshots: [`screenshots/`](/06_reporting/ScreenShots)
 
 ## Page 1 — Induction
 
-**Purpose:** Track shop induction and digital signup rates across distributors, dist. centers, and principals.
+![INDUCTION](/06_reporting/ScreenShots/induction.png)
 
+**Purpose:** Track shop induction and digital signup rates across distributors, dist. centers, and principals.
 **Visuals:**
 
 | Visual Type | Title |
@@ -48,10 +49,12 @@ Screenshots: [`screenshots/`](/06_reporting/ScreenShots)
 | Distributors | 8 |
 | DistCenters | 18 |
 | Principals | 9 |
-
 ---
 
 ## Page 2 — M2D (Money to Distributor)
+
+
+![M2d](/06_reporting/ScreenShots/M2D.png)
 
 **Purpose:** Track digital collection amounts and active shop counts over time, by shop category and payment type.
 
@@ -83,6 +86,9 @@ Screenshots: [`screenshots/`](/06_reporting/ScreenShots)
 
 ## Page 3 — Financing
 
+
+![Financing](/06_reporting/ScreenShots/financing.png)
+
 **Purpose:** Track BNPL loan disbursements, KYC approval pipeline, and repayment health.
 
 **Visuals:**
@@ -113,6 +119,8 @@ Screenshots: [`screenshots/`](/06_reporting/ScreenShots)
 ---
 
 ## Page 4 — VL Connect
+
+![VLC_support_Tickets](/06_reporting/ScreenShots/VLC_tickets.png)
 
 **Purpose:** Track shopkeeper support ticket volume and order amounts by category and query type.
 
