@@ -6,7 +6,7 @@ The Vizpro Dashboard is a 4-page Power BI report built on `VDWH_Auto`.
 It covers the full business lifecycle — shop induction, digital collections,
 BNPL financing, and support tickets (VL Connect).
 
-Screenshots: [`screenshots/`](/06_reporting/ScreenShots)
+# PowerBI Model: ![PBI_Model](/06_reporting/ScreenShots/pbi_model.png)
 
 ---
 
