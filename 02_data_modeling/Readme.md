@@ -6,7 +6,7 @@ Schema type: **Galaxy Schema (Fact Constellation)**
 Multiple fact tables share conformed dimensions. This pattern was chosen because Vizlink covers several distinct business domains — collections, BNPL financing, loyalty points, and support tickets — each requiring its own fact table while sharing the same shops, users, and distribution center dimensions.
 
 
-https://github.com/sadaatalsyed/vizlink-dwh/blob/main/02_data_modeling/vizlink_schema_diagram.png
+02_data_modeling/vizlink_schema_diagram.png
 
 
 ## Dimension Tables
