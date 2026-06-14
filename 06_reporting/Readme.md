@@ -322,4 +322,4 @@ DIVIDE(
 - All date filtering uses `Dim_date` — slicer connects via `DateKey`
 - `M2D` = Money to Distributor — the core digital collection metric
 - Cumulative measures use `FILTER(ALL(...))` pattern for running totals across any filter context
-- Screenshots for each dashboard page are in the [`screenshots/`](screenshots/) folder — add them as `page1_induction.png`, `page2_collections.png`, `page3_financing.png`, `page4_tickets.png`
+- Screenshots for each dashboard page are in the [`screenshots/`](/06_reporting/ScreenShots) folder 
