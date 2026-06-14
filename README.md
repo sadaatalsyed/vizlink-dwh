@@ -45,6 +45,8 @@ Schema type: **Galaxy Schema (Fact Constellation)** — multiple fact tables sha
 
 ![Schema Diagram](02_data_modeling/vizlink_schema_diagram.png)
 
+
+---
 **Fact Tables:**
 
 | Table | Business Domain | Key Measures |
@@ -98,7 +100,23 @@ vizlink-dwh/
 ```
 
 ---
+## Power BI Data Model View
 
+![dataModel](06_reporting/ScreenShots/pbi_model.png)
+
+---
+
+## Dashboard Preview
+
+| Induction | M2D Collections |
+|---|---|
+| ![Page 1](/06_reporting/ScreenShots/induction.png) | ![M2d](/06_reporting/ScreenShots/M2D.png) |
+
+| Financing & KYC | VL Connect |
+|---|---|
+| ![Financing](/06_reporting/ScreenShots/financing.png) | ![VLC_support_Tickets](/06_reporting/ScreenShots/VLC_tickets.png) |
+---
+→ Full Dashboard Details:![Dashboard_Detail](06_reporting/Readme.md)
 ## Key Design Decisions
 
 **Why Galaxy Schema over Star?**
